@@ -22,15 +22,22 @@
             "name": "xxx1"
         },
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/zqhsjz/TVBoxOSC/main/%E2%99%8B%E6%B5%AE%E5%8A%9Byyfxz2%5B511%5D.txt",
-            "name": "♊浮力yyfxz2[511]"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/zqhsjz/TVBoxOSC/main/%E2%9C%88%EF%B8%8F%E9%A3%9E%E6%9C%BA%E5%9C%BA11.txt",
+            "name": "飞机场11"
         },
         
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/zqhsjz/TVBoxOSC/main/%E2%99%8C%E6%B5%AE%E5%8A%9Byyfxz3%5B511%5D.txt",
-            "name": "♊浮力yyfxz3[511]"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/zqhsjz/TVBoxOSC/main/%E2%9C%88%EF%B8%8F%E9%A3%9E%E6%9C%BA%E5%9C%BA12.txt",
+            "name": "飞机场12"
         },
-        {
+            {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/zqhsjz/TVBoxOSC/main/%E2%9C%88%EF%B8%8F%E9%A3%9E%E6%9C%BA%E5%9C%BA17.txt",
+            "name": "飞机场17"
+        },    {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/zqhsjz/TVBoxOSC/main/all.json",
+            "name": "all"
+        },
+	    {
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "🚀8-巧计线路"
         },

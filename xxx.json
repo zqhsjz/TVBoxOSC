@@ -33,8 +33,9 @@
             {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/zqhsjz/TVBoxOSC/main/%E2%9C%88%EF%B8%8F%E9%A3%9E%E6%9C%BA%E5%9C%BA17.txt",
             "name": "飞机场17"
-        },    {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/zqhsjz/TVBoxOSC/main/all.json",
+        },   
+	    {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/zqhsjz/TVBoxOSC/main/9918.json",
             "name": "all"
         },
 	    {
